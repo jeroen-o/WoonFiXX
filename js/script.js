@@ -80,6 +80,6 @@ Onderwerp: ${topic}
 
 Bericht:
 ${msg}`;
-    window.location.href = `mailto:info@woonfixxhypotheken.nl?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    window.location.href = `mailto:info@woonfixx.nl?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
   });
 }
