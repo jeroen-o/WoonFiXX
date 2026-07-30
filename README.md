@@ -1,6 +1,6 @@
 # WoonFiXX Hypotheken — Website
 
-Statische website voor **woonfixxhypotheken.nl**, gehost op GitHub Pages.
+Statische website voor **woonfixx.nl**, gehost op GitHub Pages.
 
 ## Stack
 
@@ -36,7 +36,7 @@ Statische website voor **woonfixxhypotheken.nl**, gehost op GitHub Pages.
 2. Repository → Settings → Pages → Source: `Deploy from a branch` → Branch: `main` → Folder: `/ (root)`.
 3. Wacht tot de site live staat.
 
-### Custom domein (woonfixxhypotheken.nl)
+### Custom domein (woonfixx.nl)
 
 De `CNAME` file regelt het automatisch. Bij de DNS-provider:
 
